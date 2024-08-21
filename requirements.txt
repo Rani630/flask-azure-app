@@ -1,0 +1,5 @@
+Flask==2.3.3
+Flask-Session==0.4.0
+msal==1.22.0
+azure-storage-blob==12.16.0
+azure-storage-file-share==12.12.0
